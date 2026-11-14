@@ -1,0 +1,8 @@
+{
+  "name": "Indexia — Archive & Portail Web",
+  "description": "Portail documentaire de référence regroupant vos sites Web avec aperçu intégré en direct et mode plein écran.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
